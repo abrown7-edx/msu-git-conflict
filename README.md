@@ -1,3 +1,3 @@
 # msu-git-conflict
 
-Some text here from local
+Edited the README from github
